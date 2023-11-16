@@ -10,8 +10,7 @@
  <br>
 <div  align="center"> 
  
-  ![Snake animation](https://github.com/Luiz-Souza0/Luiz-Souza0/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Luiz-Souza0/Luiz-Souza0/blob/output/github-contribution-grid-snake.svg)
  
 </div>
  
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=Luiz-Souza0&repo=Luiz-Souza0&theme=react)](https://github.com/Luiz-Souza0/Luiz-Souza0)
